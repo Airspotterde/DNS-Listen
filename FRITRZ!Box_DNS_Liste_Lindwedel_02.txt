@@ -1,6 +1,6 @@
 # Title: FRITZ!Box DNS Liste Lindwedel (Teil 02/02)
-# Last modified: 17 Oct 2026 21:54 UTC
-# Number of entries: 1042119
+# Last modified: 17 Oct 2026 23:07 UTC
+# Number of entries: 1042118
 # Copyright: Stephan Leonhard
 #
 mckgear.shop
@@ -32438,7 +32438,6 @@ metrics.tyrashow.wb.com
 metrics.tyson.com
 metrics.tysonfoodservice.com
 metrics.ubi.com
-metrics.ubuntu.com
 metrics.ukfoodanddrinkshows.co.uk
 metrics.ukrpas.ua
 metrics.ulsterbank.com
@@ -1044726,6 +1044725,7 @@ zzzzzzzzzz.emil.zip
 ##metrics.sky.com##
 ##metrics.sky.de##
 ##metrics.teamviewer.com##
+##metrics.ubuntu.com##
 ##metrics.webex.com##
 ##minerva.devices.a2z.com##
 ##mj-snowplow-static-js.s3.amazonaws.com##

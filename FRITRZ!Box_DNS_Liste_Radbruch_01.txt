@@ -1,5 +1,5 @@
 # Title: FRITRZ!Box DNS Liste Radbruch (Teil 01/02)
-# Last modified: 17 Oct 2026 17:18 UTC
+# Last modified: 17 Oct 2026 22:57 UTC
 # Number of entries: 1496745
 # Copyright: Stephan Leonhard
 #
@@ -111,8 +111,8 @@
 0.myikas.com
 0.net.easyjet.com
 000000.online
-0.org
 00.org
+0.org
 000.pe
 00.quest
 000.style
@@ -240,8 +240,8 @@
 0be9dcda59e534c0.com
 0beea20237ec1ca4.com
 0bef4bc441f81e85.com
-0bestpg.com
 00bestpg.com
+0bestpg.com
 0000bet-0000bet-app.com
 0000bet-slot.com
 000bet.com
@@ -618,8 +618,8 @@
 0gomovies123.com
 0gpvp1.info
 0gq.cc
-000green.com
 00green.com
+000green.com
 0gs25f.ru
 0gtp.com
 0gw7e6s3wrao9y3q.pro
@@ -643,8 +643,8 @@
 00hh145.com
 0hhhhh.info
 0hi.me
-0hi88.com
 00hi88.com
+0hi88.com
 0hid.com
 0hk02-tatu78-bnitmg-5ajpc6.pages.dev
 0hm.casino
@@ -684,9 +684,9 @@
 00ii9980.com
 0in.net
 00insurance.com
-00iplwin.com
-0iplwin.com
 0000iplwin.com
+0iplwin.com
+00iplwin.com
 000iplwin.com
 0iq.us
 0irpd735gp.surf
@@ -1139,9 +1139,9 @@
 000webhost.com
 000webhost.fr
 000webhost.info
-0000webhostapp.com
-00webhostapp.com
 000webhostapp.com
+00webhostapp.com
+0000webhostapp.com
 000webhotapp.com
 0wf.casino
 0wholesale.com
@@ -2179,8 +2179,8 @@
 1bets.bet
 1bets.bid
 01bets.cam
-1bets.com
 01bets.com
+1bets.com
 1bets.win
 1bets1.com
 1bets10.com
@@ -2529,8 +2529,8 @@
 1dfsfs.a7x8d.com
 1dgfd.cc
 001dh.com
-01dh.top
 001dh.top
+01dh.top
 1dhl.s3.us-east-1.amazonaws.com
 1dingdong77.com
 1directory.ru
@@ -3429,8 +3429,8 @@
 1jn2hj3h.skin
 1jnj2j3.sbs
 1johnny24.com
-01jojobet.com
 1jojobet.com
+01jojobet.com
 1jojobetgiris.com
 1jojobetx.com
 1jokaroomcasino1.net
@@ -4349,8 +4349,8 @@
 1st-support.com
 1st-ufabet.online
 1st-urist.ru
-1st.com
 001st.com
+1st.com
 1st2buy.com
 1st2no.com
 1stake.casino
@@ -48354,8 +48354,8 @@
 2hgw10.com
 002hh.com
 2hh16.com
-02hi88.com
 2hi88.com
+02hi88.com
 2hitclub.win
 2hitnspin.com
 2hitnspin126.com
@@ -48727,9 +48727,9 @@
 2nn7r6bh1.de
 2no.casino
 2no.co
-002nohu.com
 2nohu.com
 02nohu.com
+002nohu.com
 2normcasino-ae.win
 2normcasino-af.win
 2normcasino-ao.win
@@ -49430,8 +49430,8 @@
 3-trustwallet.com
 3-volcano-power-slot.net
 3-wicked-spirits-hold-and-win.com
-3-win.com
 03-win.com
+3-win.com
 03-win.net
 3-win.net
 3-win.zip
@@ -54958,9 +54958,9 @@
 3nk.team
 03nlvk-3xo43-lut5i-lu9-n95ug.pages.dev
 3nn3nn.com
-003nohu.com
 3nohu.com
 03nohu.com
+003nohu.com
 3nopvvhju5.com
 3normcasino-ao.win
 3normcasino-ea.win
@@ -56875,8 +56875,8 @@
 4nm.casino
 4nn.uyy3t41kzm36j6.cyou
 4nndezdx2u.com
-004nohu.com
 4nohu.com
+004nohu.com
 04nohu.com
 4normcasino-ea.win
 4normcasino-ef.win
@@ -57165,8 +57165,8 @@
 4pu.com
 4pussies.com
 4puuqeh41.com
-004pxj.com
 04pxj.com
+004pxj.com
 4pyszxxaw.com
 4q.pl
 4q0l.click
@@ -58495,8 +58495,8 @@
 5hhcasino.com
 5hhcfff.com
 5hhh.co
-05hi88.com
 5hi88.com
+05hi88.com
 5hibasl.mom
 5hitnspin123.com
 5hk.us
@@ -58765,9 +58765,9 @@
 5nm.casino
 5nn.bet
 5nn0ag.reichll.click
-005nohu.com
-5nohu.com
 05nohu.com
+5nohu.com
+005nohu.com
 5nolimitway.com
 5normcasino-aa.win
 5normcasino-ea.win
@@ -60132,8 +60132,8 @@
 6neon54.com
 6new.shop
 6nmlkpk6irguvekw5.cfd
-06nohu.com
 006nohu.com
+06nohu.com
 6nohu.com
 6normcasino-aa.win
 6normcasino-ae.win
@@ -60223,9 +60223,9 @@
 6pqv5npqb3nrz8.cfd
 6promobile.com
 6px1vsaq0h.com
-006pxj.com
 6pxj.com
 06pxj.com
+006pxj.com
 6q.socialchatzy.cc
 6q2n8xr.lat
 6q2tw.skin
@@ -60717,8 +60717,8 @@
 6yvkut.com
 6yz2c48mzrdmzjfb.app
 6z-casino-br.com
-6z.com
 006z.com
+6z.com
 6z.zone
 6z6.vip
 6z6a2i0u.xyz
@@ -61058,8 +61058,8 @@
 7bet.com
 7bet.digital
 7bet.guru
-007bet.lat
 07bet.lat
+007bet.lat
 7bet.lt
 7bet.online
 7bet.vip
@@ -61281,8 +61281,8 @@
 007carteblanchebentley.com
 7casino-cz.com
 7casino-us.com
-7casino.app
 07casino.app
+7casino.app
 7casino.bet
 7casino.club
 7casino.co.uk
@@ -61853,8 +61853,8 @@
 7jlcasino.org
 7jlcasino.ph
 007jlcasinoph.com
-007jlgcashcasino.com
 7jlgcashcasino.com
+007jlgcashcasino.com
 7jlslot.vip
 7jo52b7qpyz4y76.rest
 7jogo55.com
@@ -63985,8 +63985,8 @@
 7slots.casa
 7slots.casino
 7slots.cz
-7slots.lat
 007slots.lat
+7slots.lat
 7slots.link
 7slots.mobi
 7slots.onl
@@ -67417,8 +67417,8 @@
 8nlk7f.top
 8nn6yn7.mom
 8nohu.com
-08nohu.com
 008nohu.com
+08nohu.com
 8normcasino-aa.win
 8normcasino-ae.win
 8normcasino-ao.win
@@ -67502,8 +67502,8 @@
 8psm7fvz3p6y22l4hxba23mss.com
 8pulse.com
 8pv9vvi9b.com
-008pxj.com
 08pxj.com
+008pxj.com
 8pxs.com
 8pyy.com
 8q-betvn.online
@@ -74814,8 +74814,8 @@
 19morospin43.com
 19mzv.vip
 19n.casino
-0019n.com
 19n.com
+0019n.com
 19nbets.com
 019nohu.com
 19nv73.casino
@@ -76133,8 +76133,8 @@
 22casino.best
 22casino.com
 22casino.com.gr
-22casino.team
 022casino.team
+22casino.team
 22casinoo.com
 22cc-casino.com
 22cc8332.com
@@ -78742,8 +78742,8 @@
 33win.beauty
 0033win.bet
 33win.casino
-33win.com
 0033win.com
+33win.com
 33win.download
 33win.movie
 33win.run
@@ -84335,8 +84335,8 @@
 69movies.net
 69net.de
 69newth.com
-069nohu.com
 69nohu.com
+069nohu.com
 69nv118.casino
 69nxslots.com
 69oxt4q05.com
@@ -87154,8 +87154,8 @@
 88bet-asia.com
 88bet-bangla.net
 88bet-bet.com
-0088bet-br.com
 88bet-br.com
+0088bet-br.com
 88bet-brl.com
 88bet-c.com
 88bet-casino.com
@@ -90263,8 +90263,8 @@
 99bdcasino.com
 99bdmbet08.com
 99bestpg.com
-099bet-b.com
 99bet-b.com
+099bet-b.com
 99bet-pro.com
 99bet.co
 99bet.com
@@ -90300,8 +90300,8 @@
 099bet71.com
 099bet73.com
 99bet74.com
-99bet87.com
 099bet87.com
+99bet87.com
 99bet9.com
 099bet90.com
 99bet90.com
@@ -90311,8 +90311,8 @@
 99beta.online
 99betcasino.xyz
 99bets.com.br
-99bets.net
 099bets.net
+99bets.net
 99betslot.co
 099betsorte.com
 99betsport.xyz
@@ -91411,8 +91411,8 @@
 110westc.com
 110win.com
 110words.com
-00110z.casino
 0110z.casino
+00110z.casino
 111-design.com
 111.hl.cn
 111.kenzototosuper.org
@@ -91529,8 +91529,8 @@
 112.events
 112.international
 112.lpn.gt.tc
-0112bet365.com
 112bet365.com
+0112bet365.com
 112brionis768.casino
 112carats.com
 0112casibom.com
@@ -92293,8 +92293,8 @@
 0123moviesfree.click
 123moviesfree.club
 0123moviesfree.net
-123moviesfree.org
 0123moviesfree.org
+123moviesfree.org
 123moviesfree.site
 123moviesfree.to
 123moviesfreego.com
@@ -97033,8 +97033,8 @@
 317y.vip
 317yh.com
 318-bet.com
-00318.com
 318.com
+00318.com
 318bet06.com
 318bet07.com
 318bet09.com
@@ -99531,8 +99531,8 @@
 479a234d20a79a24.com
 479betlogin.com
 479yb.com
-0480.com
 00480.com
+0480.com
 480baywin.com
 480bbdf9664629877bc67d2094ca011cc759f779887c3337e8ae8bfd.com
 480bi611.cyou
@@ -101841,8 +101841,8 @@
 606supertotobet.cam
 606wns.com
 0607.casino
-0607m.casino
 607m.casino
+0607m.casino
 607mariobet.com
 607winwin.com
 608-casino.cfd
@@ -106933,8 +106933,8 @@
 833meritbet.com
 0833v.com
 833wellsell.com
-833win.com
 0833win.com
+833win.com
 833x-live-ball.com
 833x-live-soccer.com
 833x-pro-win.com
@@ -108532,8 +108532,8 @@
 900bets10.com
 900betsilin.com
 900betsorte.com
-900casino.buzz
 0900casino.buzz
+900casino.buzz
 900dd622758a4b39.com
 900f3c4717.com
 900f44159b.com
@@ -108884,8 +108884,8 @@
 916fg-cnet.icu
 0916lb.com
 916nn.com
-0916sm-cnet.icu
 916sm-cnet.icu
+0916sm-cnet.icu
 916truvabet.com
 0916video.ru
 916vulkanvegas.com
@@ -109298,8 +109298,8 @@
 928wow.info
 928xpj.com
 928y.casino
-00929.com
 929.com
+00929.com
 929bet00.com
 929bet011.com
 929bet12.com
@@ -113438,8 +113438,8 @@
 1800-clock.com
 1800-clocks.com
 1800-sports.com
-01800.com
 001800.com
+01800.com
 1800banners.com
 1800betsoff.com
 1800casinos.net
@@ -113472,8 +113472,8 @@
 1800thebreakup.com
 1800tlowers.com
 1801ky.com
-1802.com
 01802.com
+1802.com
 1802ky.com
 1803.app
 1803ky.com
@@ -114068,8 +114068,8 @@
 1980nianshuhoujintiandamajiangcaiyun.casa
 1980s.click
 1980shuhounvjintiandamajiang.casa
-01981.com
 1981.com
+01981.com
 1981ky.com
 1982.casino
 1982ky.com
@@ -115467,8 +115467,8 @@
 2300p.com
 2301ky.com
 2301x.com
-02302.com
 002302.com
+02302.com
 2302ky.com
 2303-casino.buzz
 2303ky.com
@@ -115586,8 +115586,8 @@
 2344v.com
 2345.cc
 2345.cn
-2345.com
 0002345.com
+2345.com
 2345be.com
 2345bst.com
 2345cdec73c9b11f.com
@@ -118929,8 +118929,8 @@
 4004outstatistics.net
 4004s.com
 4006n.com
-00004008.com
 4008.com
+00004008.com
 4008dh.com
 4008n.com
 04008vip.com
@@ -120248,8 +120248,8 @@
 5188dl5.cc
 5188jxf.com
 5189-casino.buzz
-05191.casino
 5191.casino
+05191.casino
 5191m.com
 5192-casino.buzz
 5193.casino
@@ -120323,8 +120323,8 @@
 5285-casino.buzz
 5285k.com
 5288-casino.buzz
-05293.com
 5293.com
+05293.com
 5294.casino
 5295hb.app
 5295jgj.app
@@ -120511,8 +120511,8 @@
 05500l.com
 05500m.com
 5500mariobet.com
-5500n.com
 05500n.com
+5500n.com
 05500o.com
 05500p.com
 05500q.com
@@ -121421,8 +121421,8 @@
 6064-casino.buzz
 6066winwin.com
 6069-casino.buzz
-006071.com
 06071.com
+006071.com
 006073.com
 006074.com
 6079.casino
@@ -124426,8 +124426,8 @@
 8278slots.pro
 8278slotso.com
 8279.hk
-08279hk.com
 8279hk.com
+08279hk.com
 8280vip.com
 8282usdt.com
 8282x.com
@@ -125307,8 +125307,8 @@
 8950-casino.buzz
 8951fznmj6cbhi.cfd
 8953.casino
-08954.com
 8954.com
+08954.com
 8955s.com
 8956i.com
 8956s.com
@@ -125614,8 +125614,8 @@
 9192j.cc
 9192k.cc
 9193.casino
-09196.casino
 9196.casino
+09196.casino
 9198.casino
 9199-casino.buzz
 9199.com
@@ -126412,8 +126412,8 @@
 9935.casino
 9935.top
 9936n.com
-9940.casino
 09940.casino
+9940.casino
 9941-casino.buzz
 9941t.com
 9943.casino
@@ -126458,8 +126458,8 @@
 9977b.com
 9978jadingshengappa.net.cn
 9978n.com
-09979.casino
 9979.casino
+09979.casino
 09979.com
 9979xz.vip
 9981y.com
@@ -127038,8 +127038,8 @@
 013806.app
 13814.com
 13822.vip
-13833.com
 013833.com
+13833.com
 13843.com
 13847coinbase.com
 13850.casino
@@ -127517,8 +127517,8 @@
 19317.casino
 19335.cn
 019382-crypto.com
-019393.app
 19393.app
+019393.app
 19397.me
 19400.casino
 19417kraken.com
@@ -128101,8 +128101,8 @@
 26119o.com
 26143.casino
 26154.casino
-26172.com
 026172.com
+26172.com
 26174.com
 026178.com
 26179.bid
@@ -128866,8 +128866,8 @@
 33994r.com
 33994x.com
 34000.com
-34034a.com
 034034a.com
+34034a.com
 34034c.com
 34034d.com
 34034f.com
@@ -129173,8 +129173,8 @@
 38046.com
 038051.com
 038054.com
-38060.com
 038060.com
+38060.com
 038061.com
 038062.com
 038063.com
@@ -129506,8 +129506,8 @@
 40666.org
 040707.com
 40724.vip
-040726.casino
 40726.casino
+040726.casino
 40779.cn
 040782.com
 40804.vip
@@ -130248,8 +130248,8 @@
 49333zz.com
 49357.cc
 49365.net
-049393.vet
 49393.vet
+049393.vet
 49394.cc
 49419.cc
 49432.casino
@@ -131519,8 +131519,8 @@
 67914cfb53de8fe2.top
 67956.top
 067979.com
-067986.com
 67986.com
+067986.com
 67989b5f01e0b483.com
 67998.bet
 68044.vip
@@ -133124,8 +133124,8 @@
 89238.cfd
 89250fb60fac2c69.com
 089393.app
-89393.vet
 089393.vet
+89393.vet
 89407.com
 89422.com
 89437.me
@@ -133334,8 +133334,8 @@
 91955a.com
 91955b.com
 91992v.com
-092000.com
 92000.com
+092000.com
 92013.com
 092024.xyz
 092026casino.buzz
@@ -140279,8 +140279,8 @@
 759101-robinhood.com
 759393.vet
 759946.com
-0760011.com
 760011.com
+0760011.com
 00760033.com
 760034.com
 760040.com
@@ -140290,8 +140290,8 @@
 00760055.com
 00760066.com
 0760077.com
-0760088.com
 00760088.com
+0760088.com
 760095.com
 0760099.com
 00760099.com
@@ -140334,13 +140334,13 @@
 762154-strike.me
 00762200.com
 0762211.com
-0762233.com
 00762233.com
+0762233.com
 0762244.com
-0762277.com
 00762277.com
-0762288.com
+0762277.com
 00762288.com
+0762288.com
 00762299.com
 0762323.com
 762342neon54.com
@@ -140396,8 +140396,8 @@
 0765558.com
 0765559.com
 00765566.com
-0765599.com
 00765599.com
+0765599.com
 0765656.com
 0765757.com
 765850.com
@@ -140432,8 +140432,8 @@
 0767575.com
 767615.com
 767656.com
-0767711.com
 00767711.com
+0767711.com
 0767722.com
 0767755.com
 0767770.com
