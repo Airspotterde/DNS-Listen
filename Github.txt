@@ -1,0 +1,60 @@
+
+Schritt 1: Das GitHub-Repository (Speicherplatz) erstellen
+
+1. Logge dich auf github.com in dein Konto ein.
+2. Klicke oben rechts auf das +-Symbol und wähle New repository (Neues Repository).
+3. Trage bei Repository name einen Namen ein (z. B. dns-blocklists).
+4. Wichtig: Setze die Sichtbarkeit auf Public (Öffentlich). Nur so können deine FRITZ!Box und AdGuard später ohne komplexe Passwörter auf die Listen zugreifen.
+5. Setze unten ein Häkchen bei Add a README file (das erstellt eine erste Startdatei, damit das Repository nicht leer ist).
+6. Klicke auf den grünen Button Create repository.
+
+Schritt 2: GitHub Desktop einrichten (Der Schnellweg für deinen PC)
+
+Damit du die Dateien nicht jedes Mal per Hand im Browser hochladen musst, verbinden wir deinen Projektordner direkt mit GitHub.
+1. Lade dir das offizielle, kostenlose Programm GitHub Desktop herunter und installiere es.
+2. Melde dich nach dem Start mit deinem GitHub-Konto an.
+3. Klicke auf Clone a repository from the Internet (Ein Repository aus dem Internet kopieren).
+4. Wähle dein soeben erstelltes Repository (dns-blocklists) aus der Liste aus.
+5. Bestimme einen Local path (Ordner auf deinem PC) – Tipp: Wähle genau den Ordner, in dem dein Python-Skript und deine Listen liegen!
+6. Klicke auf Clone. GitHub lädt nun die leere Struktur in diesen Ordner.
+
+Schritt 3: Dateien verarbeiten & mit einem Klick hochladen
+
+Wenn du dein Python-Skript laufen lässt, entstehen die bereinigten Textdateien direkt in diesem Ordner.
+1. Öffne GitHub Desktop. Das Programm merkt sofort, wenn dein Skript neue oder veränderte .txt-Dateien in den Ordner gelegt hat. Sie werden links mit einem grünen Plus oder blauen Punkt angezeigt.
+2. Tippe unten links in das Pflichtfeld Summary ein kurzes Wort ein (z. B. Update).
+3. Klicke auf den blauen Button Commit to main.
+4. Klicke ganz oben auf Push origin (oder Publish origin beim ersten Mal).
+Fertig! Deine Dateien sind nun live im Internet auf deinem GitHub-Profil. Bei jedem zukünftigen Update deines Skripts musst du nur noch GitHub Desktop öffnen, auf Commit und Push klicken (dauert 3 Sekunden).
+
+Schritt 4: Die "Raw"-URLs für FRITZ!Box und AdGuard erstellen
+
+Sowohl die FRITZ!Box als auch AdGuard benötigen den reinen Text (Raw-Daten) der Datei, nicht die normale GitHub-Webseite mit den ganzen Menüs.
+1. Gehe im Webbrowser auf dein GitHub-Repository und klicke auf deine erstellte Datei (z. B. DNS_umgewandelt_für_Filter_01.txt).
+2. Du siehst nun den Inhalt der Datei auf GitHub. Klicke oben rechts über dem Text auf den Button Raw.
+3. Dein Browser öffnet nun eine komplett weiße Seite, auf der nur noch deine DNS-Einträge untereinander stehen.
+4. Das ist deine Ziel-URL! Kopiere die Adresse aus der Adresszeile deines Browsers.
+Die URL sieht immer nach diesem Muster aus:
+https://githubusercontent.com
+
+Schritt 5: Die URLs in deinen Geräten eintragen
+
+
+Für die FRITZ!Box 7690:
+
+1. Öffne die Benutzeroberfläche deiner FRITZ!Box (fritz.box).
+2. Navigiere zu Internet ➔ Filter ➔ Listen.
+3. Scroll ganz nach unten zum Bereich Globale Filterliste (oder DNS-Filter, je nach FRITZ!OS-Version).
+4. Füge dort die Raw-URLs deiner 25-MB-Dateien ein. Falls du mehrere Teile hast, kannst du diese dort einfach nacheinander als separate Listenquellen hinzufügen.
+
+Für AdGuard Home (Raspberry Pi):
+
+1. Öffne das Dashboard deines AdGuard Home im Browser.
+2. Navigiere zu Filter ➔ DNS-Sperrlisten.
+3. Klicke unten auf Sperrliste hinzufügen ➔ Eigene Liste hinzufügen.
+4. Trage einen Namen ein (z. B. Meine GitHub Blockliste) und füge bei URL die Raw-URL deiner 40-MB-Datei(en) ein.
+5. Klicke auf Speichern.
+Ab jetzt holt sich AdGuard die Liste direkt von deinem GitHub. Du kannst in AdGuard sogar ein Intervall (z. B. alle 24 Stunden) einstellen, sodass sich der Raspberry Pi deine Updates vollautomatisch zieht, sobald du sie auf GitHub hochgeladen hast!
+Probier die Einrichtung von GitHub Desktop und das Erzeugen der Raw-URLs gerne in Ruhe aus.
+• Hat das Klonen des Ordners auf Anhieb geklappt?
+• Konntest du die Raw-Link-Struktur erfolgreich auslesen und in der FRITZ!Box eintragen?
