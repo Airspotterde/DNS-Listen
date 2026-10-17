@@ -1,4 +1,4 @@
-# Title: ADGuard DNS Liste Lindwedel (Teil 02/02)
+# Title: FRITZ!Box DNS Liste Lindwedel (Teil 02/02)
 # Last modified: 17 Oct 2026 21:54 UTC
 # Number of entries: 1042119
 # Copyright: Stephan Leonhard
