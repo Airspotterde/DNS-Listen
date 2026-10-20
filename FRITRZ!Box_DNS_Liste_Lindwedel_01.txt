@@ -1,6 +1,6 @@
 # Title: FRITZ!Box DNS Liste Lindwedel (Teil 01/02)
-# Last modified: 19 Oct 2026 15:49 UTC
-# Number of entries: 1501157
+# Last modified: 20 Oct 2026 09:24 UTC
+# Number of entries: 1501156
 # Copyright: Stephan Leonhard
 #
 0--4.com
@@ -96,10 +96,10 @@
 0.fashion
 0.fit
 00.game
-0.law
 00.law
-00000.live
+0.law
 000000.live
+00000.live
 0.miami
 0.myikas.com
 0.net.easyjet.com
@@ -227,8 +227,8 @@
 0be9dcda59e534c0.com
 0beea20237ec1ca4.com
 0bef4bc441f81e85.com
-00bestpg.com
 0bestpg.com
+00bestpg.com
 0000bet-0000bet-app.com
 0000bet-slot.com
 000bet.com
@@ -609,8 +609,8 @@
 00hard.com
 0hasprzzu.com
 0hb8kkr81em8.top
-00000hd.com
 000000hd.com
+00000hd.com
 0he.casino
 0hello88.com
 00helpdesk.icu
@@ -618,8 +618,8 @@
 00hh145.com
 0hhhhh.info
 0hi.me
-0hi88.com
 00hi88.com
+0hi88.com
 0hid.com
 0hk02-tatu78-bnitmg-5ajpc6.pages.dev
 0hm.casino
@@ -661,9 +661,9 @@
 00ii9980.com
 0in.net
 00insurance.com
-000iplwin.com
 0iplwin.com
 00iplwin.com
+000iplwin.com
 0000iplwin.com
 0iq.us
 0irpd735gp.surf
@@ -892,8 +892,8 @@
 0penworlld.xyz
 0pf.casino
 0pg.casino
-00pg88.com
 0pg88.com
+00pg88.com
 0ph.casino
 00ph92.com
 0phdtj.info
@@ -1107,8 +1107,8 @@
 000webhost.fr
 000webhost.info
 00webhostapp.com
-000webhostapp.com
 0000webhostapp.com
+000webhostapp.com
 000webhotapp.com
 0wf.casino
 0wholesale.com
@@ -2147,8 +2147,8 @@
 1bets.best
 1bets.bet
 1bets.bid
-01bets.com
 1bets.com
+01bets.com
 1bets.win
 1bets1.com
 1bets10.com
@@ -2496,8 +2496,8 @@
 1dfsfs.a7x8d.com
 1dgfd.cc
 001dh.com
-01dh.top
 001dh.top
+01dh.top
 1dhl.s3.us-east-1.amazonaws.com
 1dingdong77.com
 1directory.ru
@@ -3776,9 +3776,9 @@
 1nnova.com
 1no.yooeiiqrbwm86x61.cyou
 1noce.com
+001nohu.com
 1nohu.com
 01nohu.com
-001nohu.com
 1nopst34hz8bt-nxt.cr4omt.top
 1normcasino-ea.win
 1normcasino-eo.win
@@ -5251,8 +5251,8 @@
 1win-bet-sport.space
 1win-bet.biz
 1win-bet.ch
-1win-bet.com
 001win-bet.com
+1win-bet.com
 1win-bet.lol
 1win-bet.ng
 1win-bet.plus
@@ -7283,8 +7283,8 @@
 1win-pql53.cam
 1win-pql75.cam
 1win-pre1.top
-001win-pro.com
 1win-pro.com
+001win-pro.com
 1win-pro.pro
 1win-promo-club.ru
 1win-promo.fr
@@ -45907,8 +45907,8 @@
 1xnexus.com
 1xnx.com
 1xnxx.art
-0001xnxx.com
 01xnxx.com
+0001xnxx.com
 1xoriginal.com
 1xoso.com
 1xoutcome1xbet.xyz
@@ -48697,8 +48697,8 @@
 2hgw10.com
 002hh.com
 2hh16.com
-02hi88.com
 2hi88.com
+02hi88.com
 2hitclub.win
 2hitnspin.com
 2hitnspin126.com
@@ -49063,8 +49063,8 @@
 2no.casino
 2no.co
 2nohu.com
-002nohu.com
 02nohu.com
+002nohu.com
 2normcasino-ae.win
 2normcasino-af.win
 2normcasino-ao.win
@@ -49760,8 +49760,8 @@
 3-trustwallet.com
 3-volcano-power-slot.net
 3-wicked-spirits-hold-and-win.com
-03-win.com
 3-win.com
+03-win.com
 3-win.net
 03-win.net
 3-win.zip
@@ -55345,8 +55345,8 @@
 3nk.team
 03nlvk-3xo43-lut5i-lu9-n95ug.pages.dev
 3nn3nn.com
-3nohu.com
 003nohu.com
+3nohu.com
 03nohu.com
 3nopvvhju5.com
 3normcasino-ao.win
@@ -57222,9 +57222,9 @@
 4nm.casino
 4nn.uyy3t41kzm36j6.cyou
 4nndezdx2u.com
-004nohu.com
-4nohu.com
 04nohu.com
+4nohu.com
+004nohu.com
 4normcasino-ea.win
 4normcasino-ef.win
 4normcasino-eo.win
@@ -57510,8 +57510,8 @@
 4pthomes.com
 4pussies.com
 4puuqeh41.com
-004pxj.com
 04pxj.com
+004pxj.com
 4pyszxxaw.com
 4q.pl
 4q0l.click
@@ -59764,8 +59764,8 @@
 6bet-bangla.com
 06bet-br.com
 6bet-jit.com
-6bet.com
 006bet.com
+6bet.com
 06bet365.com
 6bet888.bet
 6bet988.com
@@ -60242,8 +60242,8 @@
 6hh.casino
 6hh.info
 6hhv.com
-6hi88.com
 06hi88.com
+6hi88.com
 6hibajee.onl
 6hitclub.top
 6hitnspin122.com
@@ -60431,9 +60431,9 @@
 6new.shop
 6nh.tattoo
 6nmlkpk6irguvekw5.cfd
+6nohu.com
 06nohu.com
 006nohu.com
-6nohu.com
 6normcasino-aa.win
 6normcasino-ae.win
 6normcasino-af.win
@@ -64001,8 +64001,8 @@
 7pwin-vip.com
 7pwin.fun
 7pwinslots.com
-7pxj.com
 07pxj.com
+7pxj.com
 7pxnpa.com
 7pz9lm.icu
 7q.club
@@ -64359,8 +64359,8 @@
 007slots.cam
 7slots.casino
 7slots.cz
-007slots.lat
 7slots.lat
+007slots.lat
 7slots.link
 7slots.mobi
 7slots.onl
@@ -64669,8 +64669,8 @@
 7whv83yw.garden
 7wildroots.com
 7williamhill.com
-7win-casino.com
 07win-casino.com
+7win-casino.com
 007win-jit.com
 007win.com
 7win.info
@@ -64795,8 +64795,8 @@
 7y5x.tl17lhvvhnpvig.cyou
 7y6.casino
 7y7.us
-007yb.com
 07yb.com
+007yb.com
 7ybiglogin.com
 7ycc88.com
 7ycr9uitwhc8v7jf7xpt7jrf91kp.cfd
@@ -67789,9 +67789,9 @@
 8nkj.pw
 8nlk7f.top
 8nn6yn7.mom
-08nohu.com
 8nohu.com
 008nohu.com
+08nohu.com
 8normcasino-aa.win
 8normcasino-ae.win
 8normcasino-ao.win
@@ -67980,8 +67980,8 @@
 08qp1.com
 08qp100.com
 08qp11.com
-8qp12.com
 08qp12.com
+8qp12.com
 08qp16.com
 08qp17.com
 08qp20.com
@@ -70582,8 +70582,8 @@
 09ae5dd86dfc8141.com
 9afb7f297968079e.com
 09ag.cc
-09ai.casino
 9ai.casino
+09ai.casino
 9ai7770.com
 9aiwotv.com
 9al.casino
@@ -71002,8 +71002,8 @@
 009casino.bet
 009casino.bz
 009casino.co
-0009casino.com
 009casino.com
+0009casino.com
 009casino.cyou
 9casino.fr
 9casino.info
@@ -71584,9 +71584,9 @@
 9njogo.com
 9nl.eu
 9nlyfans.com
-09nohu.com
 9nohu.com
 009nohu.com
+09nohu.com
 9nolimitway.com
 9normcasino-ax.win
 9normcasino-ea.win
@@ -73139,8 +73139,8 @@
 11xxxbluefilm.co.uk
 11yabo.com
 11yfqp.com
-11z.casino
 011z.casino
+11z.casino
 11z6.vip
 11zalo.com
 11zencasino.com
@@ -74059,8 +74059,8 @@
 15win-bet.com
 15win.app
 015win.app
-15win.com
 015win.com
+15win.com
 15win.lat
 15win.org
 15win.win
@@ -75165,8 +75165,8 @@
 19moa.com
 19morospin43.com
 19n.casino
-0019n.com
 19n.com
+0019n.com
 19nbets.com
 019nohu.com
 19nv73.casino
@@ -79108,8 +79108,8 @@
 33win.beauty
 0033win.bet
 33win.casino
-33win.com
 0033win.com
+33win.com
 33win.download
 33win.movie
 33win.run
@@ -80889,8 +80889,8 @@
 49-joinbet.com
 49-portal.kpk.dev
 49-rooksbet-4.com
-0049.net
 049.net
+0049.net
 49a15e8b76.com
 49a317f4727edb1b.com
 49aceph.com
@@ -82829,8 +82829,8 @@
 57niceph.net
 57ninecasino36.com
 57ninecasino8433.com
-57nohu.com
 057nohu.com
+57nohu.com
 57o.casino
 57phcash.net
 57plusph.club
@@ -84627,8 +84627,8 @@
 69movies.net
 69net.de
 69newth.com
-69nohu.com
 069nohu.com
+69nohu.com
 69nv118.casino
 69nxslots.com
 69pcasino.com
@@ -85110,8 +85110,8 @@
 72nianshujintiandamajiangcaiyun.casa
 72nianshunvjinridamajiangshouqiruhe.casa
 72nianshushujintianshihedapaima.casa
-072nohu.com
 72nohu.com
+072nohu.com
 72nv46.casino
 72oscarspin2933.com
 72p.us
@@ -86426,8 +86426,8 @@
 79bet-brasil.com
 079bet-brl.com
 079bet-l1.com
-079bet.com
 79bet.com
+079bet.com
 79bet.run
 79bet15.com
 079bet16.com
@@ -87433,8 +87433,8 @@
 88bet-asia.com
 88bet-bangla.net
 88bet-bet.com
-0088bet-br.com
 88bet-br.com
+0088bet-br.com
 88bet-brl.com
 88bet-c.com
 88bet-casino.com
@@ -87990,8 +87990,8 @@
 88vipvnpay.com
 88viva.com
 88vkb-mpj-72qpw-4pj4g-f7s.pages.dev
-88vn.com
 0088vn.com
+88vn.com
 88vn.net
 88vnbanca.info
 88vncasino.com
@@ -90549,8 +90549,8 @@
 99bet-pro.com
 099bet-vip.com
 99bet.co
-99bet.com
 099bet.com
+99bet.com
 99bet.live
 099bet.vip
 099bet01.app
@@ -90582,8 +90582,8 @@
 099bet71.com
 099bet73.com
 99bet74.com
-99bet87.com
 099bet87.com
+99bet87.com
 99bet9.com
 099bet90.com
 99bet90.com
@@ -90593,8 +90593,8 @@
 99beta.online
 99betcasino.xyz
 99bets.com.br
-99bets.net
 099bets.net
+99bets.net
 99betslot.co
 099betsorte.com
 99betsport.xyz
@@ -91689,8 +91689,8 @@
 110tsars.com
 110westc.com
 110win.com
-00110z.casino
 0110z.casino
+00110z.casino
 111-design.com
 111.allserial.icu
 111.hl.cn
@@ -93290,8 +93290,8 @@
 137x.net
 137yx.com
 138-124-182-120.cprapid.com
-00138.com
 138.com
+00138.com
 138alien.vip
 138alienn.com
 138alienslot.net
@@ -102088,8 +102088,8 @@
 0610d.casino
 610f483d9e55.xyz
 610fewa8.vip
-610m.casino
 0610m.casino
+610m.casino
 0610r.casino
 0610t.casino
 0610z.casino
@@ -106441,8 +106441,8 @@
 789win.build
 789win.cc
 789win.ceo
-000789win.com
 789win.com
+000789win.com
 789win.com.se
 789win.expert
 789win.health
@@ -108809,8 +108809,8 @@
 900bets10.com
 900betsilin.com
 900betsorte.com
-0900casino.buzz
 900casino.buzz
+0900casino.buzz
 900dd622758a4b39.com
 900f3c4717.com
 900f44159b.com
@@ -109583,8 +109583,8 @@
 928wow.info
 928xpj.com
 928y.casino
-929.com
 00929.com
+929.com
 929bet-brasil.com
 929bet00.com
 929bet011.com
@@ -111615,8 +111615,8 @@
 01132.com
 1132bets10.com
 1132ky.com
-1133.cc
 01133.cc
+1133.cc
 1133.win
 1133bets10.com
 1133j.com
@@ -113711,8 +113711,8 @@
 1800thebreakup.com
 1800tlowers.com
 1801ky.com
-01802.com
 1802.com
+01802.com
 1802ky.com
 1803.app
 1803ky.com
@@ -114313,8 +114313,8 @@
 1980nianshuhoujintiandamajiangcaiyun.casa
 1980s.click
 1980shuhounvjintiandamajiang.casa
-1981.com
 01981.com
+1981.com
 1981ky.com
 1982.casino
 1982ky.com
@@ -120478,8 +120478,8 @@
 5188dl5.cc
 5188jxf.com
 5189-casino.buzz
-5191.casino
 05191.casino
+5191.casino
 5191m.com
 5192-casino.buzz
 5193.casino
@@ -120876,8 +120876,8 @@
 05533i.com
 05533l.com
 05533m.com
-05533n.com
 5533n.com
+05533n.com
 05533nn.com
 05533o.com
 05533oo.com
@@ -120927,8 +120927,8 @@
 5555-panda.bet
 05555.casino
 5555.city
-005555.com
 5555.com
+005555.com
 5555bet-bangla.com
 5555bet-br.club
 5555bet-br.com
@@ -121654,8 +121654,8 @@
 6064-casino.buzz
 6066winwin.com
 6069-casino.buzz
-006071.com
 06071.com
+006071.com
 006073.com
 006074.com
 6079.casino
@@ -124225,8 +124225,8 @@
 08063.casino
 8063d.com
 8064.team
-8065.casino
 08065.casino
+8065.casino
 8065jojobet.com
 8066d88.com
 8067bet.com
@@ -125548,8 +125548,8 @@
 8950-casino.buzz
 8951fznmj6cbhi.cfd
 8953.casino
-8954.com
 08954.com
+8954.com
 8955s.com
 8956i.com
 8956s.com
@@ -125855,8 +125855,8 @@
 9192j.cc
 9192k.cc
 9193.casino
-09196.casino
 9196.casino
+09196.casino
 9198.casino
 9199-casino.buzz
 9199.us
@@ -126654,8 +126654,8 @@
 9935.casino
 9935.top
 9936n.com
-9940.casino
 09940.casino
+9940.casino
 9941-casino.buzz
 9941t.com
 9943.casino
@@ -127764,8 +127764,8 @@
 19317.casino
 19335.cn
 019382-crypto.com
-019393.app
 19393.app
+019393.app
 19397.me
 19400.casino
 19417kraken.com
@@ -128357,8 +128357,8 @@
 26119o.com
 26143.casino
 26154.casino
-26172.com
 026172.com
+26172.com
 26174.com
 026178.com
 26179.bid
@@ -128793,8 +128793,8 @@
 30026.top
 030029.com
 30029.top
-30031.top
 030031.top
+30031.top
 30034.top
 30037.top
 030041.com
@@ -129154,20 +129154,20 @@
 33994r.com
 33994x.com
 34000.com
-34034a.com
 034034a.com
+34034a.com
 34034c.com
 34034d.com
 34034f.com
 34034g.com
-034034h.com
 34034h.com
+034034h.com
 34034j.com
 34034k.com
 34034l.com
 34034m.com
-034034n.com
 34034n.com
+034034n.com
 34034o.com
 34034p.com
 34034s.com
@@ -129459,8 +129459,8 @@
 38046.com
 038051.com
 038054.com
-038060.com
 38060.com
+038060.com
 038061.com
 038062.com
 038063.com
@@ -129471,8 +129471,8 @@
 038073.com
 038075.com
 038076.com
-038091.com
 38091.com
+038091.com
 038092.com
 38138c3dbf55267d.com
 38184.com
@@ -130287,8 +130287,8 @@
 46772.com
 46887.cc
 46893.com
-47000.com
 047000.com
+47000.com
 47042.cn
 47056.cfd
 47068.casino
@@ -130544,8 +130544,8 @@
 49357.cc
 49365.net
 49372a2557b68ebb.com
-49393.vet
 049393.vet
+49393.vet
 49394.cc
 49419.cc
 49432.casino
@@ -131844,8 +131844,8 @@
 067949.cfd
 67956.top
 067979.com
-067986.com
 67986.com
+067986.com
 67989b5f01e0b483.com
 67998.bet
 68044.vip
@@ -133433,8 +133433,8 @@
 89238.cfd
 89250fb60fac2c69.com
 089393.app
-089393.vet
 89393.vet
+089393.vet
 89407.com
 89422.com
 89437.me
@@ -134270,8 +134270,8 @@
 101280.xyz
 101281.xyz
 101293.xyz
-101304.com
 0101304.com
+101304.com
 101317.com
 101320.xyz
 101390.xyz
@@ -134537,8 +134537,8 @@
 118331a.com
 118331b.com
 118331c.com
-00118332.com
 118332.com
+00118332.com
 118332a.com
 118332b.com
 118332c.com
@@ -136761,8 +136761,8 @@
 308697d62699238f.com
 308853.vip
 308866.xyz
-0308888.com
 308888.com
+0308888.com
 309176-crypto.com
 309221-coinbase.ph
 309351.cc
@@ -140728,8 +140728,8 @@
 0760088.com
 00760088.com
 760095.com
-00760099.com
 0760099.com
+00760099.com
 760215-kraken.com
 0760303.com
 760409.com
@@ -140768,8 +140768,8 @@
 762154-strike.me
 00762200.com
 0762211.com
-0762233.com
 00762233.com
+0762233.com
 0762244.com
 0762277.com
 00762277.com
@@ -140794,8 +140794,8 @@
 0763339.com
 00763355.com
 00763377.com
-0763399.com
 00763399.com
+0763399.com
 763451.shop
 763555.xyz
 0763636.com
@@ -140831,8 +140831,8 @@
 0765558.com
 0765559.com
 00765566.com
-0765599.com
 00765599.com
+0765599.com
 0765656.com
 0765757.com
 765850.com
@@ -162219,7 +162219,6 @@
 -client-report.honkaiimpact3.com
 -datareceiver.aki-game.net
 -dingding.com.cn
--ds.metric.gstatic.com
 -events-collector.spot.im
 -ez-pass.com
 -iklan-gif-
@@ -181199,6 +181198,7 @@ ad-connect.xyz
 ad-count.jp
 ad-creative.projectcarmen.com
 ad-creative.pstatic.net
+ad-creatives-public.commondatastorage.googleapis.com
 ad-delivery.net
 ad-dirtyzone.com
 ad-drop.jp
@@ -189853,11 +189853,9 @@ ads-api.kidsnote.com
 ads-api.playfun.vn
 ads-api.production.nebula-drupal.stuff.co.nz
 ads-api.stuff.co.nz
-ads-api.twitter.com
 ads-api.videy.co
 ads-api.x.com
 ads-banner.s3.ap-south-1.amazonaws.com
-ads-bidder-api.twitter.com
 ads-bitcoin.com
 ads-blocker.app
 ads-blocker.pro
@@ -190182,13 +190180,11 @@ ads.proxibid.com
 ads.r2ads.net
 ads.ringaraja.net
 ads.rmbl.ws
-ads.roku.com
 ads.rubiconproject.com
 ads.rzb.ir
 ads.safarme.ir
 ads.salemall.vn
 ads.samnytt.se
-ads.samsung.com
 ads.scored.co
 ads.search360invite.com
 ads.searchmobileonline.com
@@ -190480,7 +190476,6 @@ adserverworkshub.com
 adservice.click
 adservice.google.
 adservice.google.co.*
-adservice.google.com
 adservice.google.se
 adservice.hani.co.kr
 adservice.online
@@ -248170,6 +248165,7 @@ analytics.authoritymedia.com
 analytics.autoodb.com
 analytics.autozone.com
 analytics.avanser.com.au
+analytics.avcdn.net
 analytics.avis.de
 analytics.avis.lu
 analytics.aweber.com
@@ -248195,7 +248191,6 @@ analytics.betterplaces.nl
 analytics.bhaskarsaikia.in
 analytics.bi.encuentra24.com
 analytics.biezen.nl
-analytics.bigdata.samsung.com
 analytics.bigfishgames.com
 analytics.biscottigentilini.it
 analytics.bitchute.com
@@ -248510,7 +248505,6 @@ analytics.globality.com
 analytics.gnetworks.xyz
 analytics.go.com
 analytics.gokwik.co
-analytics.google.com
 analytics.gooogol.com
 analytics.gorgeous-il.co.il
 analytics.gorillacoffee.pl
@@ -249005,7 +248999,6 @@ analytics.plasticsurgerythemeeting.com
 analytics.platocreative.co.nz
 analytics.playplayground.com
 analytics.plaza.ir
-analytics.plex.tv
 analytics.plumbworld.co.uk
 analytics.pnc.com
 analytics.pob.sa
@@ -250906,6 +250899,8 @@ androidtop.xyz
 androidtoy.xyz
 androidtrek.com
 androidtry.xyz
+androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 androidtwo.xyz
 androidupdate.download
 androidupdate.xyz
@@ -263888,6 +263883,7 @@ api.miralleve.store
 api.mistertec.com.br
 api.misticosdooriente.com
 api.miui.security.xiaomi.com
+api.mixpanel.com
 api.mm4321.com
 api.mobiletraits.com
 api.mobula.ds.duapps.com
@@ -426569,7 +426565,6 @@ bldk.bodylab.dk
 bldkgmtnesbfp.site
 bldklgxmbfemy.online
 bldlab.shop
-bldr.mkt.samsung.com
 bldrguys.com
 bldri.net
 bldrsport.shop
@@ -504579,6 +504574,8 @@ browser-home.wixstudio.com
 browser-http-intake.logs.datadoghq.com
 browser-http-intake.logs.datadoghq.eu
 browser-intake-*-datadoghq.com
+browser-intake-datadoghq.com
+browser-intake-datadoghq.eu
 browser-live.wixstudio.com
 browser-metmask.wixstudio.com
 browser-qq.org
@@ -702976,6 +702973,7 @@ cloudequivocal.xyz
 clouder.online
 clouderp.online
 clouderroneous.xyz
+clouderrorreporting.googleapis.com
 clouderuptions.xyz
 cloudespacios.com
 cloudesperance.xyz
@@ -718667,7 +718665,6 @@ collector-1.ex.co
 collector-analytics.efigence.com
 collector-api.99designs.com
 collector-api.frspecifics.com
-collector-cdn.github.com
 collector-dev.cdp-dev.cnn.com
 collector-hpn.ghostery.net
 collector-medium.lightstep.com
@@ -718711,7 +718708,6 @@ collector.fullxh.com
 collector.gamechanger.io
 collector.getguardianlegal.com
 collector.getyourguide.com
-collector.github.com
 collector.githubapp.com
 collector.goldwaterlawfirm.com
 collector.gptlabs.com.au
@@ -748589,6 +748585,7 @@ convitedigitalonlinebr.com
 conviteperfeito.site
 convitesblackamex.com
 convitescenturionvip.com
+conviva.com
 convivaltech.click
 convivial-customers-509053.framer.app
 convivialsupportgroup.com
@@ -822079,7 +822076,6 @@ data-haixingsports.com.cn
 data-hk.live
 data-hub.mftinteligencia.com.br
 data-ingestion.flowgpt.com
-data-lake-api.internet.apps.samsung.com
 data-logistics.com
 data-macau-bandung.id
 data-matrix.lol
@@ -832699,8 +832695,6 @@ dc.crsorgi.gov.in.verifycertificatecrs.co.in
 dc.crsorgi.gov.in.veriye.in
 dc.crsorgi.gov.in.viewcart.life
 dc.dellmed.utexas.edu
-dc.di.atlas.samsung.com
-dc.dqa.samsung.com
 dc.entradas.com
 dc.esterethyl.com
 dc.fondoro.com
@@ -833718,7 +833712,6 @@ ddjgagf.ausmdate.com
 ddjhjcdhj.com
 ddjiayou.cn
 ddjje.emijay.com
-ddjpc.lg.com
 ddjpj.eargasm.com
 ddjys.one
 ddk.marketing
@@ -842159,6 +842152,7 @@ decibelstore.shop
 decibeltrade.events
 decibeltrade.info
 decide.dev
+decide.mixpanel.com
 decideagentive.xyz
 decideairdrop.xyz
 decidecafe.xyz
@@ -897712,10 +897706,8 @@ dlrndkdq.enn.kr
 dlrqqn.top
 dlrtreeservicesllc.com
 dlrz-web.oss-cn-beijing.aliyuncs.com
-dls-account.di.atlas.samsung.com
 dls-b23-link.ip.twelve99.net.iberostar.com
 dls-cockpit-services.online
-dls-ddc.dqa.samsung.com
 dls-hramazon.com
 dls.casino
 dls.is
@@ -909785,7 +909777,6 @@ doppler-reporting.cbsivideo.com
 doppler-yields.live
 doppler.click
 doppler.finance.ski
-doppler.hulu.com
 doppler.streetinteractive.com
 dopplerfi.xyz
 dopplerfinance-mainnet.com
@@ -1024270,7 +1024261,6 @@ evzwyj.jubiler.pl
 ew.mittwald.de
 ew.ugekq.icu
 ew0ctzt3vd.com
-ew1.reg.bigdata.ssp.samsung.com
 ew12352.com
 ew22.cc
 ew3.casino
@@ -1061625,7 +1061615,6 @@ fcm1sx3iteasdfyn2ewds.zip
 fcm5kum7vbo.2pjcu7277jkcx67orn1qqkn6kelc.cyou
 fcmabank.com
 fcmaillots.fr
-fcmatch.google.com
 fcmb6578loan.weebly.com
 fcmhefgl.top
 fcmoon.com
@@ -1062827,6 +1062816,7 @@ federarynodes.digital
 federatebeam.digital
 federated-sso.com
 federatedbanking.com
+federatedcompute-pa.googleapis.com
 federateddataservices.com
 federatedfreeandacceptedmasons.org
 federatedwireless.co.uk
@@ -1332344,7 +1332334,6 @@ hqmdtd4.xyz
 hqmdtd5.xyz
 hqmeatsdelivery.shop
 hqmed.net
-hqmetrics.sony.com
 hqmetropointservices.com
 hqmfda.com
 hqmilfpics.com
@@ -1361460,7 +1361449,6 @@ images.fleet.total.fr
 images.flippengroup.com
 images.fmpracticemanagement.lexisnexis.com
 images.fnch.ch
-images.frbusiness.samsung.com
 images.freedom.harley-davidson.com
 images.gc.georgiancollege.ca
 images.gcom.cigna.com
@@ -1361582,7 +1361570,6 @@ images.insight.intrado.com
 images.institutional-news.amundi.com
 images.insurance.leavitt.com
 images.interact.jll.com
-images.it.business.samsung.com
 images.ita.ice.it
 images.jjpp.cloud
 images.join.hot.net.il
@@ -1361697,7 +1361684,6 @@ images.outreach.pepco.com
 images.outreach.pewtrusts.org
 images.p.smflc.jp
 images.partner.fisglobal.com
-images.partnersupport.samsung.com
 images.performance.volvotrucks.com
 images.perspectives.jll.com
 images.portal.keppelelectric.com
@@ -1361768,7 +1361754,6 @@ images.solutions.halliburton.com
 images.solutions.kellyservices.com
 images.solutions.servicesdegros.bell.ca
 images.srs.sfgmembers.com
-images.ssbusiness.samsung.com
 images.stanleyhealthcare.sbdinc.com
 images.swiss-equestrian.ch
 images.tableau.com
@@ -1392302,6 +1392287,7 @@ io7tigb4h24elnfknt5bf6fuqgcygn4zz117.rest
 ioadserve.com
 ioagentive.xyz
 ioaindia.com
+ioam.de
 ioann-apostol.ru
 ioapdwng.click
 ioapi.top
@@ -1402247,6 +1402233,7 @@ ivvcvaqifiovl.space
 ivvietcombank.com
 ivvlfc.pics
 ivvzvu.host
+ivwbox.de
 ivwgyux.org.cn
 ivwkkh.nexity.fr
 ivx.casino
@@ -1501160,3 +1501147,15 @@ larderhd.com
 larderledger.com
 lardi.frizull.net
 lardiervyra.click
+lardinicollection.shop
+lardryjuba.cyou
+lardrymizzenspointel.cfd
+lardyfascinated.com
+lardylathercenter.com
+lardypluckydirt.com
+laredcientifica.stream
+laredirection-colis.com
+laredodieselservice.com
+laredohvaccoolingservice.site
+laredoplumbingservice.com
+laredotimes.com
